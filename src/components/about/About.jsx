@@ -36,7 +36,7 @@ function About() {
             </article>  
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nobis laudantium exercitationem excepturi repellendus eius ipsam voluptatem, expedita harum sit quasi. Nemo voluptas nostrum sequi eveniet fugit eius fuga fugiat.</p>
+          <p>Hi, my name is Harshad. I am a web developer based in India. I love playing guitar and creating something that makes people smile. Powered by VS Code and coffee, I turn your requirements into CMS-ified and e-commerce-ified websites - on time and on budget.I help designers, small agencies and businesses bring their ideas to life. Powered by VS Code and coffee, I turn your requirements into CMS-ified and ecommerce-ified websites - on time and on budget.</p>
 
           <a href="#contact" className='btn btn-primary'>let's Talk</a>
         </div>
